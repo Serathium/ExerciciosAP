@@ -20,6 +20,5 @@ int main() {
       soma += i;
     }
   }
-  printf("Soma entre os inteiros dos 2 números, incluindo eles mesmos: %d",
-         soma);
+  printf("Soma entre os inteiros dos 2 números, incluindo eles mesmos: %d", soma);
 }
